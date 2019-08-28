@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLoopPractice", "ArrayLoopPractice\ArrayLoopPractice.csproj", "{3CFD2850-FC80-417A-8463-BE558B60BCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFD2850-FC80-417A-8463-BE558B60BCAB}.Debug|x86.ActiveCfg = Debug|x86
+		{3CFD2850-FC80-417A-8463-BE558B60BCAB}.Debug|x86.Build.0 = Debug|x86
+		{3CFD2850-FC80-417A-8463-BE558B60BCAB}.Release|x86.ActiveCfg = Release|x86
+		{3CFD2850-FC80-417A-8463-BE558B60BCAB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
